@@ -10,6 +10,8 @@ for (i=0; i < 5; i++)
 <body>
 
 <h2>DATE and TIme/h2>
+
+<h2>DATE and TIme/h2>
 <p>this will display the date and time on click</p>
 
 <button type="button" onclick="document.getElementById("demo").innerHTML = Date()">Click to display the date and time</button>
